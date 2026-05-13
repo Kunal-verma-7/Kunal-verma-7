@@ -4,20 +4,19 @@
 
 ---
 
-<h2 align="center">🦂 3D Model Showcase</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://sketchfab.com/3d-models/high-tech-scorpion-40f946266fc04bc5a4b902b94258a1c8">
-    <img 
-      src="https://cdn.sketchfab.com/models/40f946266fc04bc5a4b902b94258a1c8/thumbnails/default.jpg" 
-      alt="High Tech Scorpion"
-      width="700"
-    />
-  </a>
-</p>
+## 🦂 3D Model Showcase
 
-<p align="center">
-  🔗 <a href="https://sketchfab.com/3d-models/high-tech-scorpion-40f946266fc04bc5a4b902b94258a1c8">
-    View Interactive 3D Model
-  </a>
-</p>
+<iframe
+    title="High Tech Scorpion"
+    frameborder="0"
+    allowfullscreen
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true"
+    width="800"
+    height="480"
+    src="https://sketchfab.com/models/40f946266fc04bc5a4b902b94258a1c8/embed">
+</iframe>
+
+</div>
