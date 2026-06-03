@@ -66,7 +66,9 @@
 ---
 
 ### 📊 GitHub Stats Dashboard
-
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-verma-7&show_icons=true&theme=dark&hide_border=false" width="380" alt="Kunal's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
