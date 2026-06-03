@@ -1,30 +1,20 @@
 <div align="center">
 
-  <!-- Minimalist Aesthetic Logo / Icon Block -->
-  <p align="center">
-    <samp>
-      <code>⚡ K U N A L &nbsp; V E R M A ⚡</code>
-    </samp>
-  </p>
-
-  <h1>
-    <img src="https://raw.githubusercontent.com/javascript-tutorial/en.javascript.info/master/1-js/05-data-types/01-numbers/wave.gif" width="35px" /> 
-    Hello World, I'm Kunal Verma
+  <!-- Heavily Highlighted Name -->
+  <h1 align="center" style="font-size: 2.5em; letter-spacing: 2px; margin-top: 0;">
+    🌿 KUNAL VERMA 🌿
   </h1>
 
-  <h3>🛸 Digital Alchemist | Full-Stack Engineer & UI/UX Architect</h3>
-
+  <!-- Premium Organic Punchline -->
   <p align="center">
-    <samp>
-      <b>⚡ CRAFTING HIGH-PERFORMANCE DIGITAL WORLDS</b> <br />
-      • 🏛️ Architecting Robust, Multi-Tenant Scalable Backends <br />
-      • 🌊 Engineering Fluid, Interactive & Liquid Experiences (GSAP/Next.js) <br />
-      • 🎨 Designing Premium, High-Converting Bento & Grid Interfaces
-    </samp>
+    <strong>Growing Ecosystems, Shaping Digital Flow.</strong>
   </p>
 
+  <br />
+
+  <!-- Action-Oriented Minimal Typing Metrics -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7928CA&center=true&vCenter=true&width=700&lines=Turning+Complex+Logic+into+Clean+Code...;Designing+Fluid+Pixel-Perfect+UI/UX...;Building+Production-Ready+Scalable+Apps..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1B5E20&center=true&vCenter=true&width=600&lines=Cultivating+clean%2C+scalable+backends...;Crafting+fluid%2C+organic+frontends...;Nurturing+deliberate+bento+designs..." alt="Core Focus" />
   </p>
 
 </div>
