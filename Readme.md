@@ -59,8 +59,8 @@
 ### 🐱 Coding Buddy
 
 <p align="center">
-  <!-- Sahi relative root path bina kisi extension ke taaki loop fetch unblock ho -->
-  <img src="./assets/image_1" width="320" alt="Coding Cat GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=1000&color=39D353&center=false&vCenter=false&width=320&height=140&multiline=true&lines=01010101010101010101;%3E+booting_system...;10101010101010101010;%3E+loading_modules...;11001100110011001100;%3E+access_granted" alt="Hacker Terminal" align="middle" />
+  <img src="./assets/image_1" width="260" alt="Coding Cat GIF" align="middle" style="border-radius: 8px;" />
 </p>
 
 ---
