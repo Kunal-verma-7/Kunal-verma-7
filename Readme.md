@@ -55,17 +55,14 @@
 </p>
 
 ---
-
 ### 🐱 Coding Buddy
-
 <p align="start">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=1000&color=39D353&center=false&vCenter=false&width=320&height=140&multiline=true&lines=01010101010101010101;%3E+booting_system...;10101010101010101010;%3E+loading_modules...;11001100110011001100;%3E+access_granted" alt="Hacker Terminal" align="left" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=1000&color=39D353&center=false&vCenter=false&width=320&height=140&multiline=true&lines=function+lifecycle()+%7B;++++eat();;++++code();;++++sleep();;++++repeat();;%7D" alt="Hacker Terminal" align="left" />
   
-  <img src="./assets/image_1" width="260" alt="Coding Cat GIF" align="right" style="border-radius: 8px;" />
+  <img src="./assets/image_1" width="260" alt="Coding Cat GIF" align="right" style="border-radius: 8px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br clear="all" />
 
----
 
 ### 📊 GitHub Stats Dashboard
 <p align="center">
