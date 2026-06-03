@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kunal Verma
 ### 🚀 Full Stack Developer building end-to-end web & mobile apps with performance, scalability, and clean design in focus.
 
----
+
 
 ### 🤝 Connect with me
 
@@ -14,7 +14,7 @@
 <a href="https://www.geeksforgeeks.org/profile/kunalverma8055" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools
 
@@ -54,7 +54,6 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 
----
 
 ### 🐱 Coding Buddy
 
@@ -63,7 +62,6 @@
   <img src="./assets/image_1" width="320" alt="Coding Cat GIF" />
 </p>
 
----
 
 ### 📊 GitHub Stats Dashboard
 
@@ -76,15 +74,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-tw.vercel.app/?user=kunal-verma-7&theme=dark&hide_border=false&v=2" width="400" alt="Kunal's GitHub Streak" />
 </p>
----
 
 ### 📅 Contribution & Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-verma-7&theme=react-dark&bg_color=0d1117&hide_border=false" width="780" alt="Kunal's Contribution Graph" />
 </p>
-
----
 
 ### ☕ Support My Work
 
