@@ -74,9 +74,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-verma-7&layout=compact&theme=dark&hide_border=false" width="380" alt="Kunal's Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats-tw.vercel.app/?user=kunal-verma-7&theme=dark&hide_border=false" width="380" alt="Kunal's GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
