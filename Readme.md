@@ -59,7 +59,8 @@
 ### 🐱 Coding Buddy
 
 <p align="center">
-  <img src="assets/image_1.gif" width="320" alt="Coding Cat GIF" />
+  <!-- Sahi relative root path bina kisi extension ke taaki loop fetch unblock ho -->
+  <img src="./assets/image_1" width="320" alt="Coding Cat GIF" />
 </p>
 
 ---
@@ -67,15 +68,12 @@
 ### 📊 GitHub Stats Dashboard
 
 <p align="center">
-  <!-- Live General Stats Mirror Server -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-verma-7&show_icons=true&theme=dark&hide_border=false" width="380" alt="Kunal's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Live Top Languages Mirror Server -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-verma-7&layout=compact&theme=dark&hide_border=false" width="380" alt="Kunal's Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Live Streak Counter Mirror Server -->
   <img src="https://github-readme-streak-stats-tw.vercel.app/?user=kunal-verma-7&theme=dark&hide_border=false" width="380" alt="Kunal's GitHub Streak" />
 </p>
 
