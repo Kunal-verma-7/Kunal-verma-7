@@ -5,7 +5,7 @@
     <tr>
       <td width="300" align="center" valign="middle">
         <!-- Aapki cat animation GIF yahan se load hogi -->
-        <img src="image_1.gif" width="280" alt="Coding Cat GIF" />
+        <img src="assets/image_1.gif" width="280" alt="Coding Cat GIF" />
       </td>
       <td width="450" valign="middle" style="padding-left: 20px;">
         <h1 align="left">Hello there! 👋</h1>
