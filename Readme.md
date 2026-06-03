@@ -64,31 +64,25 @@
 <br clear="all" />
 
 
-### 📊 GitHub Stats Dashboard
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-verma-7&show_icons=true&theme=dark&hide_border=false" width="380" alt="Kunal's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-verma-7&layout=compact&theme=dark&hide_border=false" width="380" alt="Kunal's Top Languages" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=kunal-verma-7&theme=dark&hide_border=false" width="380" alt="Kunal's GitHub Streak" />
-</p> -->
-
----
-
-### 📅 Contribution & Activity Overview
+## 📊 GitHub Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-verma-7&theme=react-dark&bg_color=0d1117&hide_border=false" width="780" alt="Kunal's Contribution Graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal-verma-7&show_icons=true&theme=dark&hide_border=false&border_radius=8" width="48%" alt="Kunal's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal-verma-7&layout=compact&theme=dark&hide_border=false&border_radius=8" width="48%" alt="Kunal's Top Languages" />
 </p>
 
 ---
 
-### ☕ Support My Work
+## 📅 Contribution & Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-verma-7&theme=react-dark&bg_color=0d1117&hide_border=false&border_radius=8" width="100%" alt="Kunal's Contribution Graph" />
+</p>
+
+---
+
+## ☕ Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/kunalverma7" target="_blank">
