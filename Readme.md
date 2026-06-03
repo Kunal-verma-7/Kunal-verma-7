@@ -1,10 +1,8 @@
 <div align="center">
 
-  <!-- Header Section: Intro & Cat Typing GIF -->
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="300" align="center" valign="middle">
-        <!-- Aapki original cat animation GIF yahan chalegi -->
         <img src="image_1.gif" width="280" alt="Coding Cat GIF" />
       </td>
       <td width="450" valign="middle" style="padding-left: 20px;">
@@ -18,7 +16,6 @@
   <hr style="border-color: #30363d;" />
   <br />
 
-  <!-- Languages and Tools Section -->
   <h3>🛠️ Languages and Tools</h3>
   <br />
   <img src="https://skillicons.dev/icons?i=aws,c,cpp,css,docker,git,html,java,js,kubernetes,linux,postgres,py,react" alt="My Skills" />
@@ -28,30 +25,42 @@
   <hr style="border-color: #30363d;" />
   <br />
 
-  <!-- GitHub Stats Dashboard Section -->
   <h3>📊 GitHub Stats</h3>
   <br />
 
-  <!-- Side-by-Side Stats Cards -->
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="top">
-        <img src="image_0398df.jpg" width="380" alt="GitHub Stats Dark" style="border-radius: 6px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=UmangAhuja&show_icons=true&theme=dark&hide_border=false" width="380" alt="Umang's GitHub Stats" />
       </td>
       <td width="20"></td>
       <td align="center" valign="top">
-        <img src="image_039638.jpg" width="380" alt="GitHub Streak Dark" style="border-radius: 6px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmangAhuja&theme=dark&hide_border=false" width="380" alt="Umang's GitHub Streak" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <!-- Advanced Metrics & Activity Heatmap Section -->
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangAhuja&layout=compact&theme=dark&hide_border=false" width="380" alt="Umang's Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+  <br />
+  <hr style="border-color: #30363d;" />
+  <br />
+
+  <h3>📅 Contribution Activity</h3>
+  <br />
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td align="center">
-        <img src="image_039d58.png" width="780" alt="GitHub Contribution Heatmap & Radar Graph" style="border-radius: 6px;" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmangAhuja&theme=react-dark&bg_color=0d1117&hide_border=false" width="780" alt="Umang's Contribution Graph" />
       </td>
     </tr>
   </table>
