@@ -74,9 +74,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=kunal-verma-7&theme=dark&hide_border=false" width="380" alt="Kunal's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=kunal-verma-7&theme=dark&hide_border=false&v=2" width="400" alt="Kunal's GitHub Streak" />
 </p>
-
 ---
 
 ### 📅 Contribution & Activity Overview
