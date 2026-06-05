@@ -23,7 +23,7 @@
 
 </div>
 
----
+<hr style="border: none; border-top: 1px solid #24292f;" />
 
 ## 🤝 Connect With Me
 
@@ -50,7 +50,8 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
----
+
+<hr style="border: none; border-top: 1px solid #24292f;" />
 
 ### 🛠️ Languages and Tools
 
@@ -90,7 +91,7 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 
----
+<hr style="border: none; border-top: 1px solid #24292f;" />
 
 ## 🐱 Coding Buddy &nbsp;&nbsp;·&nbsp;&nbsp; 📊 Developer Dashboard
 
@@ -154,7 +155,7 @@
 />
 </div>
 
----
+<hr style="border: none; border-top: 1px solid #24292f;" />
 
 ## ☕ Support My Work
 
