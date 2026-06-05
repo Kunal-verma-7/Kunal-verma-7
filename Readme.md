@@ -1,28 +1,25 @@
 <div align="center">
 
-<img src="assets/sad.gif" width="100%" alt="Header Banner" style="max-height: 400px; object-fit: cover; border-radius: 8px;" />
+  <!-- Header Banner (Uncomment if needed) -->
+  <!-- <img src="assets/sad.gif" width="100%" alt="Header Banner" style="max-height: 400px; object-fit: cover; border-radius: 8px;" /> -->
 
-<br/>
+  <br/>
 
-<!-- Animated gradient name using SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1&pause=99999&color=1D9E75&center=true&vCenter=true&width=700&height=70&lines=KUNAL+VERMA" alt="Kunal Verma" />
+  <!-- Static Name (No Animation - Width Balanced) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1&pause=99999&color=1D9E75&center=true&vCenter=true&width=700&height=65&lines=KUNAL+VERMA" alt="Kunal Verma" />
 
-<!-- Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=888780&center=true&vCenter=true&width=600&height=30&lines=Growing+Ecosystems%2C+Shaping+Digital+Flow." alt="Subtitle" />
+  <!-- Static Subtitle (No Animation - Width Balanced) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999&color=888780&center=true&vCenter=true&width=700&height=35&lines=Growing+Ecosystems%2C+Shaping+Digital+Flow." alt="Subtitle" />
+  
+  <br/>
 
-<br/>
+  <!-- Animated Role Lines (Width Balanced) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&height=40&lines=Cultivating+clean%2C+scalable+backends...;Crafting+fluid%2C+organic+frontends...;Nurturing+deliberate+bento+designs..." alt="Core Focus" />
 
-<!-- Animated role lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Cultivating+clean%2C+scalable+backends...;Crafting+fluid%2C+organic+frontends...;Nurturing+deliberate+bento+designs..." alt="Core Focus" />
+  <br/><br/>
 
-<br/><br/>
-
-<!-- Badges row -->
-![Profile Views](https://komarev.com/ghpvc/?username=kunal-verma-7&style=flat-square&color=1D9E75&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/kunal-verma-7?style=flat-square&color=1D9E75&label=FOLLOWERS)
-&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/kunal-verma-7?style=flat-square&color=1D9E75&label=STARS)
+  <!-- Badges Row (Perfectly Aligned with &nbsp;) -->
+  <img src="https://komarev.com/ghpvc/?username=kunal-verma-7&style=flat-square&color=1D9E75&label=PROFILE+VIEWS" alt="Profile Views" />&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/kunal-verma-7?style=flat-square&color=1D9E75&label=FOLLOWERS" alt="GitHub followers" />&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/kunal-verma-7?style=flat-square&color=1D9E75&label=STARS" alt="GitHub User's stars" />
 
 </div>
 
@@ -33,6 +30,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/kunal-code-954401295/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kunalverma8055@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://stackoverflow.com/users/22043882/kunal-verma" target="blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
@@ -50,7 +50,6 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
-
 ---
 
 ### 🛠️ Languages and Tools
