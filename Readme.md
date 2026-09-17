@@ -2,7 +2,7 @@
 
   <!-- Header Banner (Uncomment if needed) -->
   <!-- <img src="assets/sad.gif" width="100%" alt="Header Banner" style="max-height: 400px; object-fit: cover; border-radius: 8px;" /> -->
-
+  <!-- -->
   <br/>
 
   <!-- Static Name (No Animation - Width Balanced) -->
